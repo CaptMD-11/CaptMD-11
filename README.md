@@ -1,4 +1,4 @@
-"Statistics is the grammar of science." - Karl Pearson
+<center>"Statistics is the grammar of science." - Karl Pearson</center>
 
 Hey, there! 
 
