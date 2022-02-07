@@ -2,5 +2,6 @@
 
 Hey, there! 
 
-I'm currently working on VStats, a website that calculates probabilities of Binomial & Geometric distributions, one-variable statistics, and more! 
-I also love statistics research, especially finding connections between statistics and calculus. 
+I'm a math/statistics enthusiast, and I enjoy finding connections between statistics and calculus. I also code in Java. Although I'm not an extremely serious coder, I use coding more as a tool to generate statistical models. I'm also looking to learn R and Python. 
+
+One of my projects includes <i>VStats</i>, which is a statistics calculator that computes one-variable statistics, probabilities of binomial & geometric distributions, and more! 
