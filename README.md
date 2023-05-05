@@ -8,5 +8,5 @@ One of my projects includes VStats, which is a statistics library that contains 
 
 <p align="center">
   <img
-  src="https://github-readme-stats.vercel.app/api?username=CaptMD-11&show_icons=true&count_private=true&theme=github_dark&hide_border=true" width="600">
+  src="https://github-readme-stats.vercel.app/api?username=CaptMD-11&show_icons=true&theme=prussian" width="600">
 </p>
