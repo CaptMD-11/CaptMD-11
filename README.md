@@ -6,11 +6,6 @@ I'm a math/statistics enthusiast, and I enjoy finding connections between statis
 
 One of my projects includes VStats, which is a statistics library that contains calculations for one-variable statistics, binomial & geometric distributions, confidence intervals, significance tests, linear regression, matrix operations, and more! You can download it <a href="https://captmd-11.github.io/blog/vstats/" target="_blank">here</a>! 
 
-<p align="center">
-  <img
-  src="https://github-readme-stats.vercel.app/api?username=CaptMD-11&show_icons=true&theme=prussian" width="400"">
-</p>
-
 
 <p align="center">
   <img
